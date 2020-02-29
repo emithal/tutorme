@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+13px&display=swap');
+
+.navbar {
+  margin: 0;
+  font-size: larger;
+  align-content: center;
+}
+
+img {
+  width: 100%;
+  height: 350px;
+}
+
+.imgLarge {
+  width: 100%;
+  height: 100%;
+}
+
+.title {
+  padding-top: 15px;
+  color: #588ff5;
+}
+
+.photo {
+  border: solid;
+  border-color: rgb(52, 123, 214);
+  border-width: 3px;
+}
+
+.port {
+  height: 600px;
+  width: 80%;
+}
+
+.container {
+  padding-top: 20px;
+}
+
+.card-header {
+  color: rgb(52, 123, 214);
+  border-color: rgb(52, 123, 214);
+}
+
+p {
+  font-size: 18px;
+  text-align: justify;
+  color: white;
+}
+.ul {
+  font-size: 18px;
+  text-align: justify;
+  color: white;
+}
+.navbar {
+  display: inline-block;
+  text-align: center;
+  justify-content: center;
+}
+
+.foot {
+  padding-top: 15px;
+  background-color: #588ff5;
+  height: 5px;
+}
+
+.subscriber {
+  padding: 10px 10px 10px 10px;
+  border: 3px solid;
+  border-color: #588ff5;
+  padding-bottom: 20px;
+}
